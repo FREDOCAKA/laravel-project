@@ -79,7 +79,9 @@
 
             <div class="content">
                 <div class="title m-b-md">
+
                     Laravel homepage boss
+
                 </div>
 
                 <div class="links">
